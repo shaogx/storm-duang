@@ -32,7 +32,7 @@ code.
 storm-duang contains a variety of examples of using Storm.  If this is your first time working with Storm, check out
 these topologies first:
 
-1. [DuangTopology](src/jvm/storm/Duang/DuangTopology.java):  Basic topology written in all Java.
+1. [DuangTopology](src/jvm/storm/duang/DuangTopology.java):  Basic topology written in all Java.
 
 If you want to learn more about how Storm works, please head over to the
 [Storm project page](http://storm.apache.org).
